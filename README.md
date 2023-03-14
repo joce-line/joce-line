@@ -84,7 +84,7 @@
 <details>
     <summary>Contribution Graph</summary>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=joce-line&area=true&hide_border=true&bg_color=000&line=10F77A&point=065D2EFF&color=10F77A&area_color=10F77A">
+            <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=joce-line&theme=tokyo-night">
         </a>
 </details>
 <details>
