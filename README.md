@@ -71,8 +71,8 @@
 
 <h2>:octocat: My GitHub Stats</h2>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joce-line&show_icons=true&count_private=true&hide_border=true&title_color=10F77AFF&icon_color=10F77AFF&text_color=c9d1d9&bg_color=0d1117" alt="Joceline github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joce-line&layout=compact&hide_border=true&title_color=10F77AFF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joce-line&show_icons=true&theme=transparent" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joce-line&show_icons=true&theme=transparent" />
 </div>
 
 <details>
