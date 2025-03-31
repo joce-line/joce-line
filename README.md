@@ -59,7 +59,7 @@
   
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
+<a href="https://github.com/joce-line">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/joce-line?style=social&label=@joce-line">
 </a>
 <a href="https://www.linkedin.com/in/joceline-gutierrez/">
